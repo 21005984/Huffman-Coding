@@ -22,7 +22,10 @@ Calculate frequency of occurrence.
 Print the characters and its huffmancode.
  
 ## Program:
-
+~~~
+Developed by : Meiyarasi.V
+Register number : 212221230058
+~~~
 ``` Python
 # Get the input String
 string = 'MEIYARASI'
